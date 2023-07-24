@@ -1,8 +1,6 @@
 👋 - Olá, eu sou @VictorHugoRaisCardoso
-👀 - Estou interessado em... Pyhton, HTML e CSS, Javascript, C#
+👀 - Estou interessado em... Pyhton HTML & CSS
 🌱 - Atualmente estou aprendendo... Python POO, Módulo Tkinter.
-💞️ - Procuro colaborar em...
-📫 - Como chegar até mim...
 
 <!---
 VictorHugoRaisCardoso/VictorHugoRaisCardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
